@@ -1,4 +1,4 @@
-# 🛡️ Ekrem Güvendiren
+# 🛡️ Ekrem Sadi Güvendiren
 
 I'm a **Cybersecurity Researcher** specializing in **Vulnerability Management** and **AppSec**. I am also a **Cross-Platform Developer** leveraging AI-driven workflows to build and deploy secure tools at high speed, primarily using the **Tauri** ecosystem.
 
