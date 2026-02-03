@@ -1,6 +1,6 @@
 # 🛡️ Ekrem Sadi Güvendiren
 
-I'm a **Cybersecurity Researcher** specializing in **Vulnerability Management** and **AppSec**. I am also a **Cross-Platform Developer** leveraging AI-driven workflows to build and deploy secure tools at high speed, primarily using the **Tauri** ecosystem.
+I am a **Cybersecurity Researcher** specializing in **Vulnerability Management** and **AppSec**. I also work as a **Cross-Platform Developer**, utilizing AI-driven workflows to build and deploy secure tools efficiently, primarily within the **Tauri** ecosystem.
 
 ---
 
@@ -23,8 +23,8 @@ I'm a **Cybersecurity Researcher** specializing in **Vulnerability Management** 
 ### 📊 GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ekremguvendiren&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekremguvendiren&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=ekremguvendiren&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="Ekrem's GitHub Stats" />
+<img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=ekremguvendiren&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Ekrem's Top Languages" />
 </p>
 
 ---
@@ -32,7 +32,7 @@ I'm a **Cybersecurity Researcher** specializing in **Vulnerability Management** 
 ### 📡 Status
 ```zsh
 > whoami
-ekrem_guvendiren
+ekrem_sadi_guvendiren
 > current_focus
 vulnerability_management && cross_platform_dev
 > preferred_os
