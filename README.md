@@ -1,25 +1,27 @@
-🛡️ I am a **Cybersecurity Researcher** specialized in **Vulnerability Management** and **Application Security (AppSec)**. 
+#🛡️I am a **Cybersecurity Researcher** specializing in **Vulnerability Management** and **Application Security (AppSec)**.
 
 Beyond security research, I have a strong passion for software development. In my spare time, I focus on building secure, cross-platform tools using the **Tauri** ecosystem and AI-accelerated workflows.
 
 ---
 
-### 🛡️ Core Security Stack
-![Vulnerability Management](https://img.shields.io/badge/Vulnerability-Management-D32F2F?style=flat-square&logo=securityscorecard&logoColor=white)
-![AppSec](https://img.shields.io/badge/AppSec-1976D2?style=flat-square&logo=owasp&logoColor=white)
-![BurpSuite](https://img.shields.io/badge/BurpSuite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+### 🔍 Cybersecurity Focus & Expertise
 
-### 🛠️ Development (Hobbies & Tools)
-![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+**Security Domains**
+![Vulnerability Management](https://img.shields.io/badge/Vulnerability-Management-D32F2F?style=for-the-badge&logo=securityscorecard&logoColor=white)
+![Application Security](https://img.shields.io/badge/AppSec-1976D2?style=for-the-badge&logo=owasp&logoColor=white)
+![Network Security](https://img.shields.io/badge/Network_Security-006400?style=for-the-badge&logo=wireshark&logoColor=white)
+
+**Technical Tools**
+![BurpSuite](https://img.shields.io/badge/BurpSuite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4F5D95?style=flat-square&logo=linux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat-square&logo=metasploit&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-003F5C?style=flat-square&logo=tenable&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
 
 ---
 
 ### 💻 Hardware & OS Setup
-My environment is dual-purposed for deep security research and high-end performance.
 
 **Primary Workstation: MacBook Pro M1 Pro**
 * **OS:** macOS Tahoe (Version 26.2)
@@ -36,7 +38,7 @@ My environment is dual-purposed for deep security research and high-end performa
 ### 📊 Tech & Skills
 <p align="left">
 <a href="https://github.com/ekremguvendiren">
-  <img src="https://skillicons.dev/icons?i=rust,react,tauri,supabase,python,linux,windows,apple,figma,discord&perline=5" />
+  <img src="https://skillicons.dev/icons?i=linux,apple,windows,bash,wireshark,react,tauri,supabase,rust,python&perline=5" />
 </a>
 </p>
 
