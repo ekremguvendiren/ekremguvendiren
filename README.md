@@ -1,5 +1,5 @@
 ### 🛡️ Cybersecurity Researcher | Vulnerability Management & AppSec
-I am a **Cross-Platform Developer** leveraging AI-driven workflows to build and deploy secure tools efficiently, primarily within the **Tauri** ecosystem.
+I am a **Cross-Platform Developer** specializing in secure tool development. I leverage AI-driven workflows and the **Tauri** ecosystem to build high-performance applications.
 
 ---
 
@@ -19,13 +19,28 @@ I am a **Cross-Platform Developer** leveraging AI-driven workflows to build and 
 
 ---
 
+### 💻 Hardware & OS Setup
+My environment is built for a mix of high-speed development, daily productivity, and gaming.
+
+**Primary Workstation: MacBook Pro M1 Pro**
+* **OS:** macOS Tahoe (Version 26.2)
+* **Specs:** 16GB RAM | 512GB SSD
+* **Role:** Main device for development, daily tasks, and security analysis.
+
+**Performance & Gaming Unit: HP Victus 16.1**
+* **OS:** Windows 11 IoT Enterprise LTSC (Build 26100) / Kali Linux (**Dual Boot**)
+* **Specs:** Ryzen 7 7840HS | RTX 4070 | 40GB RAM
+* **Role:** High-end gaming, Sim-Racing, and Windows-specific research.
+
+---
+
 ### 📡 System Status
 ```zsh
 > whoami
 ekrem_sadi_guvendiren
+> primary_os
+macos_tahoe
+> secondary_os
+windows_11_iot_ltsc && kali_linux
 > current_focus
-vulnerability_management && cross_platform_dev
-> preferred_os
-windows_ltsc_poweruser && macos
-> workflow
-ai_assisted_development
+vulnerability_management && tauri_apps
