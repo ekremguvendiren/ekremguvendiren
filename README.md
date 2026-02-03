@@ -1,6 +1,6 @@
 # 🛡️ Ekrem Sadi Güvendiren
 
-I am a **Cybersecurity Researcher** specializing in **Vulnerability Management** and **AppSec**. I also work as a **Cross-Platform Developer**, utilizing AI-driven workflows to build and deploy secure tools efficiently, primarily within the **Tauri** ecosystem.
+I am a **Cybersecurity Researcher** specializing in **Vulnerability Management** and **AppSec**. I am also a **Cross-Platform Developer** leveraging AI-driven workflows to build and deploy secure tools efficiently, primarily within the **Tauri** ecosystem.
 
 ---
 
@@ -20,11 +20,11 @@ I am a **Cybersecurity Researcher** specializing in **Vulnerability Management**
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="left">
-<img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=ekremguvendiren&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="Ekrem's GitHub Stats" />
-<img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=ekremguvendiren&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Ekrem's Top Languages" />
+<img src="https://github-readme-stats.denic.dev/api?username=ekremguvendiren&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.denic.dev/api/top-langs/?username=ekremguvendiren&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
 </p>
 
 ---
