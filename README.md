@@ -1,4 +1,4 @@
-I am a **Cybersecurity Researcher** specialized in **Vulnerability Management** and **Application Security (AppSec)**. 
+🛡️ I am a **Cybersecurity Researcher** specialized in **Vulnerability Management** and **Application Security (AppSec)**. 
 
 Beyond security research, I have a strong passion for software development. In my spare time, I focus on building secure, cross-platform tools using the **Tauri** ecosystem and AI-accelerated workflows.
 
