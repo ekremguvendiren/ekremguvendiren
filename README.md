@@ -1,6 +1,5 @@
-# 🛡️ Ekrem Sadi Güvendiren
-
-I am a **Cybersecurity Researcher** specializing in **Vulnerability Management** and **AppSec**. I am also a **Cross-Platform Developer** leveraging AI-driven workflows to build and deploy secure tools efficiently, primarily within the **Tauri** ecosystem.
+### 🛡️ Cybersecurity Researcher | Vulnerability Management & AppSec
+I am a **Cross-Platform Developer** leveraging AI-driven workflows to build and deploy secure tools efficiently, primarily within the **Tauri** ecosystem.
 
 ---
 
@@ -20,16 +19,7 @@ I am a **Cybersecurity Researcher** specializing in **Vulnerability Management**
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="left">
-<img src="https://github-readme-stats.denic.dev/api?username=ekremguvendiren&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.denic.dev/api/top-langs/?username=ekremguvendiren&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-</p>
-
----
-
-### 📡 Status
+### 📡 System Status
 ```zsh
 > whoami
 ekrem_sadi_guvendiren
